@@ -1,17 +1,13 @@
-﻿# Node / TypeScript
-node_modules
+﻿node_modules
 dist
 *.log
 
-# Env & local overrides
 .env
 .env.*
 !.env.example
 
-# Prisma
 prisma/dev.db
 prisma/*.db-journal
 
-# OS
 .DS_Store
 Thumbs.db
