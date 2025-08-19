@@ -1,0 +1,3 @@
+workerId,firstName,lastName,email,department,jobTitle,hireDate,birthDate,salary,managerId,status
+W0001,Chelsea,Bonyata,chelsea@example.com,Engineering,Software Engineer,2022-06-01,1995-09-02,95000,,Active
+W0002,Sam,Lee,sam.lee@example.com,Engineering,Engineering Manager,2018-01-15,1988-03-22,135000,,Active

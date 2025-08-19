@@ -1,0 +1,3 @@
+workerId,planType,coverageLevel,employeePrem,employerPrem,effectiveDate
+W0001,Medical,Employee+Spouse,1200,5400,2025-01-01
+W0001,Dental,Employee,200,800,2025-01-01
